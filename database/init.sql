@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON projectdb.* TO 'projectroot'@'%' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
